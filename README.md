@@ -4,9 +4,10 @@
 
 The [Symfony client][1] helps developers [create and manage Symfony applications][2].
 
-It provides a [local HTTP/2 web server][3] with [TLS certificates][4]
+It provides a [local HTTP/2 web server][3] with [TLS certificates][4].
 It checks for [security vulnerabilities][5].
 It seamlessly integrates with [SymfonyCloud][6].
+Have a look at [@fabpot's SymfonyCon 2018 Keynote][10] for more information.
 
 A must-have tool when developing Symfony apps locally.
 
@@ -36,3 +37,4 @@ If you discover a security vulnerability, please follow our [disclosure procedur
 [7]: https://symfony.com/cloud/support/new
 [8]: https://github.com/symfony/cli/issues/new
 [9]: https://symfony.com/security
+[10]: https://speakerdeck.com/fabpot/symfony-local-web-server-dot-dot-dot-reloaded
