@@ -2,26 +2,24 @@
     <img src="https://symfony.com/logos/symfony_black_02.svg">
 </a></p>
 
-The [Symfony client][1] helps developers [create and manage Symfony applications][2].
+The [Symfony binary][1] is a must-have tool when developing Symfony applications
+on your local machine. It provides:
 
-It provides a [local HTTP/2 web server][3] with [TLS certificates][4].
-It checks for [security vulnerabilities][5].
-It seamlessly integrates with [SymfonyCloud][6].
-Have a look at [@fabpot's SymfonyCon 2018 Keynote][10] for more information.
+* The best way to [create new Symfony applications][2];
+* A powerful [local web server][3] to develop your projects with support for [TLS certificates][4];
+* A tool to [check for security vulnerabilities][5];
+* Seamless integration with [SymfonyCloud][6].
 
-A must-have tool when developing Symfony apps locally.
+Installation
+------------
 
-Install the client
-------------------
-
-Follow our instructions on [symfony.com][1].
+Follow the instructions at [symfony.com/download][1].
 
 Reporting Issues
 ----------------
 
-If you encounter an issue related to SymfonyCloud, please report it on
-[symfony.com][7]. If you encounter another issue, please report it on
-[GitHub][8].
+* Use [github.com/symfony/cli][8] to report issues related to the Symfony binary;
+* Use [github.com/cloud/support][7] to report issues related to SymfonyCloud.
 
 Security Issues
 ---------------
@@ -29,7 +27,7 @@ Security Issues
 If you discover a security vulnerability, please follow our [disclosure procedure][9].
 
 [1]: https://symfony.com/download
-[2]: https://symfony.com/download#new
+[2]: https://symfony.com/doc/current/setup.html#creating-symfony-applications
 [3]: https://symfony.com/doc/current/setup/symfony_server.html
 [4]: https://symfony.com/doc/current/setup/symfony_server.html#enabling-tls
 [5]: https://symfony.com/doc/current/security/security_checker.html
@@ -37,4 +35,3 @@ If you discover a security vulnerability, please follow our [disclosure procedur
 [7]: https://symfony.com/cloud/support/new
 [8]: https://github.com/symfony/cli/issues/new
 [9]: https://symfony.com/security
-[10]: https://speakerdeck.com/fabpot/symfony-local-web-server-dot-dot-dot-reloaded
