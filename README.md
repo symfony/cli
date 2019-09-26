@@ -19,7 +19,7 @@ Reporting Issues
 ----------------
 
 * Use [github.com/symfony/cli][8] to report issues related to the Symfony binary;
-* Use [github.com/cloud/support][7] to report issues related to SymfonyCloud.
+* Use [symfony.com/cloud/support][7] to report issues related to SymfonyCloud.
 
 Security Issues
 ---------------
