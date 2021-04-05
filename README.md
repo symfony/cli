@@ -30,7 +30,7 @@ If you discover a security vulnerability, please follow our [disclosure procedur
 [2]: https://symfony.com/doc/current/setup.html#creating-symfony-applications
 [3]: https://symfony.com/doc/current/setup/symfony_server.html
 [4]: https://symfony.com/doc/current/setup/symfony_server.html#enabling-tls
-[5]: https://symfony.com/doc/current/security/security_checker.html
+[5]: https://symfony.com/doc/current/setup.html#security-checker
 [6]: https://symfony.com/cloud
 [7]: https://symfony.com/cloud/support/new
 [8]: https://github.com/symfony/cli/issues/new
